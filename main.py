@@ -1,6 +1,5 @@
 import cv2
 import pytesseract as ps
-
 from ollama import Client
 import tkinter as tk
 from tkinter import scrolledtext, ttk, Label
